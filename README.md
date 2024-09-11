@@ -4,7 +4,7 @@
 
 ![DinhoDKK GitHub status](https://github-readme-stats.vercel.app/api?username=luiz-ricardo-dev&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhodkk&layout=compact)](https://github.com/luiz-ricardo-dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-ricardo-dev&layout=compact)](https://github.com/luiz-ricardo-dev/github-readme-stats)
 
 ## Tecnologias nas quais eu desenvolvo 📈
 
