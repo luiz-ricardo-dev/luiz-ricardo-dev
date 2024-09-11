@@ -2,9 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-ricardo-dev/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](playsonbr@hotmail.com)
 
-![DinhoDKK GitHub status](https://github-readme-stats.vercel.app/api?username=dinhodkk&show_icons=true&theme=dracula)
+![DinhoDKK GitHub status](https://github-readme-stats.vercel.app/api?username=luiz-ricardo-dev&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhodkk&layout=compact)](https://github.com/DinhoDKK/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhodkk&layout=compact)](https://github.com/luiz-ricardo-dev/github-readme-stats)
 
 ## Tecnologias nas quais eu desenvolvo 📈
 
