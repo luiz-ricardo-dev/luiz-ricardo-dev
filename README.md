@@ -1,14 +1,40 @@
-### Bem Vindo ao meu Git 💻
+# Olá, eu sou o Luiz! 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-ricardo-dev/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](playsonbr@hotmail.com)
+### 🐍 Python Developer em Formação
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-ricardo-dev&layout=compact)](https://github.com/luiz-ricardo-dev/github-readme-stats)
+Atualmente, estou mergulhando no ecossistema Python para construir soluções eficientes e automações inteligentes. Acredito que o aprendizado contínuo é a chave para me tornar um desenvolvedor de excelência.
 
-## Tecnologias nas quais eu desenvolvo 📈
+---
 
-<div style="display: inline_block"><br> 
-  <img align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
- </div>
+## 🚀 Sobre Mim
+- 🎯 **Foco atual:** Aperfeiçoando lógica de programação e Django/Flask (ou Data Science).
+- 🎓 **Educação:** Estudando Automação com Python.
+- 🌱 **Aprendendo:** Estou explorando Pandas, FastAPI e Selenium.
+- 💬 **Interesses:** Adoro conversar sobre automação, open-source e café.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-ricardo-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-ricardo-dev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-ricardo-dev/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:playsonbr@hotmail.com)
+
+> "A prática leva à permanência." 💻
